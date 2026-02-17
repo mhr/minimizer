@@ -5,7 +5,8 @@ A headless Windows application that automatically minimizes distracting applicat
 ## Purpose
 
 Minimizes target applications outside of configured work hours:
-- **Between 8:00 AM - 10:30 PM** - target apps allowed to stay open
+- **Between 8 AM - 9 PM** - Browsers allowed to stay open
+- **Between 8 AM - 10:30 PM** - Fender Studio Pro allowed to stay open
 - Otherwise target apps are minimized
 
 The timer runs every 5 seconds but only acts during blocked periods, providing aggressive anti-procrastination enforcement without closing target applications.
@@ -13,7 +14,7 @@ The timer runs every 5 seconds but only acts during blocked periods, providing a
 ## Target Applications
 
 Currently configured to minimize:
-- Studio One (DAW)
+- Fender Studio Pro (DAW)
 - Chrome
 - Firefox
 - Microsoft Edge
